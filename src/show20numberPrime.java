@@ -15,7 +15,6 @@ public class show20numberPrime {
             if (isPrime(N)) {
                 System.out.print(N + " ");
                 count++;
-
             }
             N++;
         }
